@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "data": [
+        {
+            "title": "Bitcoin Cryptocurrency - Latest Blockchain & Cryptocurrency News",
+            "name": "Bitcoin Cryptocurrency",
+            "url": "https://bitcoincryptocurrency.com",
+            "language": "en",
+            "category": "business",
+            "description": "Latest Cryptocurrency & Blockchain Updates",
+            "logo": "https://bitcoincryptocurrency.com/wp-content/uploads/2019/04/Mini-Logo-2x.png",
+            "favicon": "https://bitcoincryptocurrency.com/wp-content/uploads/2019/04/favicon.png",
+            "links": []
+        },
+        {
+            "title": "Crypto Currency News",
+            "name": "CryptoCurrency News",
+            "url": "https://cryptocurrencynews.com",
+            "language": "en",
+            "category": "technology",
+            "description": "Cryptocurrency News (CCN) offers breaking news, analysis, price charts & more on the most popular cryptocurrencies such as Bitcoin, Litecoin, Ethereum & Ripple & emerging cryptocurrencies such as Monero, Stellar, Dash & EOS. Cryptocurrency News offers something for everyone. Get the latest CCN headlines!",
+            "logo": "https://cryptocurrencynews.com/wp-content/uploads/sites/3/2017/11/cryptocurrencynews-logo.png",
+            "favicon": "https://cryptocurrencynews.com/wp-content/uploads/sites/3/2017/10/Favicon_CryptoCurrencyNews.png",
+            "links": []
+        },
+        {
+            "title": "CryptoCurrency News Updates - CurrencyMarket24",
+            "name": "Cryptocurrency Market",
+            "url": "https://currencymarket24.com",
+            "language": "en",
+            "category": "entertainment",
+            "description": "CurrencyMarket24 offers the latest and the most up to date information about Bitcoin, Ethereum, DeFi and next generation crypto news.",
+            "logo": "https://currencymarket24.com/wp-content/uploads/2018/02/CM24L-new2.png",
+            "favicon": "https://currencymarket24.com/wp-content/uploads/2018/02/cropped-CM24-favicon-270x270.png",
+            "links": []
+        },
+        {
+            "title": "Coinnounce - Bitcoin & Cryptocurrency News",
+            "name": "Coinnounce - Bitcoin & Cryptocurrency News",
+            "url": "https://coinnounce.com",
+            "language": "en",
+            "category": "business",
+            "description": "Coinnounce has been the best source for the latest crypto & bitcoin news since 2018. Read the latest on the blockchain, BTC, eth, NFTs, and metaverse.",
+            "logo": "https://coinnounce.com/content/images/2022/09/coinnounce-logo.png",
+            "favicon": "https://coinnounce.com/content/images/size/w256h256/2022/09/coinnounce-icon.png",
+            "links": []
+        },
+        {
+            "title": "Maximize Your Profits with AI-Powered Crypto Pump Signals for Binance - Cryptocurrency News & Trading analytics",
+            "name": "Cryptocurrency News & Trading analytics",
+            "url": "https://cryptopumpnews.com",
+            "language": "en",
+            "category": "business",
+            "description": "We present to you a unique project that will help you achieve financial success - telegram channel 🚀Crypto Pump Signals for Binance! What makes our project so",
+            "logo": "https://cryptopumpnews.com/wp-content/uploads/2021/07/CryptoPumpNews-header.png",
+            "favicon": "https://cryptopumpnews.com/wp-content/uploads/cryptopumpnews-header.png",
+            "links": []
+        },
+        {
+            "title": "Cryptocurrency and Blockchain News",
+            "name": "The Cryptocurrency Post",
+            "url": "https://thecryptocurrencypost.net",
+            "language": "en",
+            "category": "business",
+            "description": "At thecryptocurrencypost we work to share with our readers the latest news about Bitcoin, Blockchan and Cryptocurrencies.",
+            "logo": "https://thecryptocurrencypost.net/wp-content/uploads/2019/02/tcp.jpg",
+            "favicon": "https://thecryptocurrencypost.net/wp-content/uploads/2019/02/cropped-tcp-270x270.jpg",
+            "links": []
+        },
+        {
+            "title": "Cryptovibes.com - Daily Cryptocurrency and FX News",
+            "name": "Cryptovibes.com - Daily Cryptocurrency and FX News",
+            "url": "https://www.cryptovibes.com",
+            "language": "en",
+            "category": "business",
+            "description": "Explore real-time updates, expert analysis, and trends to make well-informed decisions in the cryptocurrency market",
+            "logo": "https://www.cryptovibes.com/wp-content/uploads/2023/09/6ccdebf6-da8d-4048-8619-5eef16ea8665-350x250.jpeg",
+            "favicon": "https://www.cryptovibes.com/wp-content/uploads/2019/03/fa.png",
+            "links": []
+        },
+        {
+            "title": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
+            "name": "Binance",
+            "url": "https://www.binance.com",
+            "language": "en",
+            "category": "business",
+            "description": "Binance cryptocurrency exchange - We operate the world’s biggest bitcoin exchange and altcoin crypto exchange in the world by volume.",
+            "logo": "https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png",
+            "favicon": "https://bin.bnbstatic.com/static/images/bnb-for/brand.png",
+            "links": []
+        },
+        {
+            "title": "Crypto News - Latest Cryptocurrency News",
+            "name": "crypto.news",
+            "url": "https://crypto.news",
+            "language": "en",
+            "category": "business",
+            "description": "Stay up-to-date on crypto market news with crypto.news - Analysis, and expert insights on Bitcoin, Ethereum, Blockchain, NFT, Altcoins, DeFi & digital finance.",
+            "logo": "https://crypto.news/app/uploads/2023/04/og-image-default.png",
+            "favicon": "https://crypto.news/app/uploads/2022/01/cropped-cryptonews-icon-300x300.png",
+            "links": []
+        },
+        {
+            "title": "Blockchain & Cryptocurrency News - TokenPost",
+            "name": "TokenPost",
+            "url": "https://www.tokenpost.com",
+            "language": "en",
+            "category": "business",
+            "description": "Blockchain and Cryptocurrency News",
+            "logo": "https://tokenpost.com/assets/images/tokenpostcom/common/snsShareV3.png",
+            "favicon": "https://www.tokenpost.com/assets/images/tokenpostcom/common/favicon.ico",
+            "links": []
+        }
+    ]
+}
