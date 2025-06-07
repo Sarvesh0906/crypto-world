@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import millify from 'millify';
 import { Typography, Grid, Box, Card, CardContent, Button } from '@mui/material';
 import Divider from '@mui/material/Divider';
+import { Link } from 'react-router-dom';
 
 import { useGetGlobalStatsQuery } from '../api/cryptoApi';
 import Cryptocurrencies from './Cryptos';
@@ -80,16 +81,20 @@ const Homepage = () => {
         </Typography>
 
         <div className="hidden md:block">
-          <Button variant="contained" href="/cryptocurrencies">
-            Show More
-          </Button>
+          <Link to="/cryptocurrencies">
+            <Button variant="contained">
+              Show More
+            </Button>
+          </Link>
         </div>
       </Box>
       <Cryptocurrencies simplified />
       <div className="md:hidden flex justify-center my-6">
-        <Button variant="contained" href="/cryptocurrencies">
-          Show More
-        </Button>
+        <Link to="/cryptocurrencies">
+          <Button variant="contained">
+            Show More
+          </Button>
+        </Link>
       </div>
 
       <Divider className="bg-gray-100 md:hidden" />
@@ -101,16 +106,20 @@ const Homepage = () => {
         </Typography>
 
         <div className="hidden md:block">
-          <Button variant="contained" href="/news">
-            Show More
-          </Button>
+          <Link to="/news">
+            <Button variant="contained">
+              Show More
+            </Button>
+          </Link>
         </div>
       </Box>
       <News simplified />
       <div className="md:hidden flex justify-center mt-6">
-        <Button variant="contained" href="/news">
-          Show More
-        </Button>
+        <Link to="/news">
+          <Button variant="contained">
+            Show More
+          </Button>
+        </Link>
       </div>
     </>
   );
