@@ -6,17 +6,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Installation Guide](#installation-guide)
-- [State Management](#state-management)
-- [Performance Optimizations](#performance-optimizations)
-
----
-
 ## 🚀 Project Overview
 
 CryptoWorld is a modern cryptocurrency analytics platform, which is built with React and Redux Toolkit, offering real-time market data, comprehensive coin analytics, detailed cryptocurrency exchange stats and cryptocurrency news aggregation.
@@ -106,7 +95,7 @@ VITE_CRYPTO_RAPIDAPI_HOST=coinranking1.p.rapidapi.com
 VITE_CRYPTO_RAPIDAPI_KEY=your_api_key
 
 VITE_NEWS_API_URL=your_news_api_url
-VITE_NEWS_RAPIDAPI_HOST=bing-news-search1.p.rapidapi.com
+VITE_NEWS_RAPIDAPI_HOST=news-api14.p.rapidapi.com
 VITE_NEWS_RAPIDAPI_KEY=your_api_key
 
 VITE_EXCHANGE_API_URL=your_exchange_api_url
